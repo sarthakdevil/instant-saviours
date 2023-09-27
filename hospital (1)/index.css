@@ -1,0 +1,769 @@
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 1080px;
+  height: 5413px;
+}
+.find-local-ob-gyns {
+  margin: 0;
+}
+.find-local-ob-gyns-container,
+.top-rated-primary-care {
+  position: absolute;
+  font-family: var(--font-adobe-blank);
+  display: inline-block;
+}
+.find-local-ob-gyns-container {
+  top: 408px;
+  left: 187px;
+  font-size: 46px;
+  text-align: left;
+  width: 541px;
+}
+.top-rated-primary-care {
+  top: 759px;
+  left: 410px;
+  font-size: var(--font-size-17xl);
+  width: 613px;
+}
+.our-team-of {
+  top: 853px;
+  left: 227px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+  color: var(--color-darkslateblue);
+}
+.dentists-with-the,
+.our-team-of,
+.we-have-a,
+.we-tie-up {
+  position: absolute;
+  display: inline-block;
+  width: 613px;
+}
+.dentists-with-the {
+  top: 1463px;
+  left: 410px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-adobe-blank);
+}
+.we-have-a,
+.we-tie-up {
+  font-weight: 500;
+}
+.we-have-a {
+  top: 1490px;
+  left: 227px;
+  color: #65677b;
+}
+.we-tie-up {
+  top: 2090px;
+  left: 216px;
+  font-size: var(--font-size-11xl);
+}
+.top-searched-specialties {
+  top: 2300px;
+  left: 190px;
+  text-align: left;
+}
+.are-you-a,
+.top-searched-specialties,
+.were-trusted-by {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-adobe-blank);
+}
+.are-you-a {
+  top: 2707px;
+  left: 740px;
+  text-align: left;
+  display: inline-block;
+  width: 509px;
+}
+.were-trusted-by {
+  top: 3179px;
+  left: 716px;
+}
+.about-us,
+.list-your-practice {
+  position: absolute;
+  top: 169px;
+  left: 578px;
+  font-family: var(--font-agency-fb);
+  text-align: left;
+}
+.about-us {
+  left: 802px;
+}
+.list-your-practice1 {
+  position: absolute;
+  top: 2947px;
+  left: 785px;
+  font-family: var(--font-actor);
+  color: var(--white);
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-royalblue);
+  width: 293px;
+  height: 52px;
+}
+.partner-with-dockit,
+.rectangle-group {
+  position: absolute;
+  top: 16px;
+  left: 41px;
+}
+.rectangle-group {
+  top: 2791px;
+  left: 388px;
+  width: 293px;
+  height: 52px;
+  color: var(--white);
+  font-family: var(--font-actor);
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-aliceblue);
+  width: 334px;
+  height: 333px;
+}
+.rectangle-div,
+.web-dev {
+  position: absolute;
+  top: 84px;
+}
+.rectangle-div {
+  left: 94px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-lightcyan);
+  width: 146px;
+  height: 24px;
+}
+.web-dev {
+  left: 139px;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-deepskyblue-100);
+}
+.ggsipunew-delhi {
+  position: absolute;
+  top: 156px;
+  left: 122px;
+  font-family: var(--font-agency-fb);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.skilled-web-developer {
+  position: absolute;
+  top: 224px;
+  left: 31px;
+  line-height: 24px;
+  font-weight: 500;
+  display: inline-block;
+  width: 272px;
+}
+.sarthak-sahu {
+  position: absolute;
+  top: 49px;
+  left: 122px;
+  line-height: 24px;
+  font-family: var(--font-actor);
+}
+.rectangle-container {
+  position: absolute;
+  top: 972px;
+  left: 373px;
+  width: 334px;
+  height: 333px;
+}
+.group-leader {
+  position: absolute;
+  top: 84px;
+  left: 126px;
+  line-height: 24px;
+  color: #2bc0fe;
+}
+.ggsipunew-delhi1 {
+  position: absolute;
+  top: 156px;
+  left: 126px;
+  font-family: var(--font-agency-fb);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.nikhil-jain {
+  position: absolute;
+  top: 49px;
+  left: 133px;
+  line-height: 24px;
+  font-family: var(--font-actor);
+}
+.frame-div {
+  position: absolute;
+  top: 970px;
+  left: 23px;
+  width: 334px;
+  height: 333px;
+}
+.navneet-malik,
+.web-dev1 {
+  position: absolute;
+  line-height: 24px;
+}
+.web-dev1 {
+  top: 84px;
+  left: 141px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-deepskyblue-100);
+}
+.navneet-malik {
+  top: 49px;
+  left: 118px;
+  font-family: var(--font-actor);
+}
+.frame-child5,
+.frame-child6,
+.rectangle-parent1 {
+  position: absolute;
+  top: 964px;
+  left: 726px;
+  width: 334px;
+  height: 333px;
+}
+.frame-child5,
+.frame-child6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-mintcream);
+}
+.frame-child6 {
+  top: 84px;
+  left: 94px;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-honeydew);
+  width: 146px;
+  height: 24px;
+}
+.aiml,
+.rajdeep-paul {
+  position: absolute;
+  line-height: 24px;
+}
+.aiml {
+  top: 84px;
+  left: 153px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  color: var(--color-lightgreen);
+}
+.rajdeep-paul {
+  top: 49px;
+  left: 124px;
+  font-family: var(--font-actor);
+}
+.frame-child7 {
+  position: absolute;
+  top: 14px;
+  left: 118px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 1687px;
+  left: 378px;
+  width: 334px;
+  height: 333px;
+}
+.app-dev {
+  position: absolute;
+  top: 84px;
+  left: 142px;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-lightgreen);
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 1686px;
+  left: 17px;
+  width: 334px;
+  height: 333px;
+}
+.content-desginer {
+  position: absolute;
+  top: 84px;
+  left: 123px;
+  font-size: var(--font-size-sm);
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--color-lightgreen);
+}
+.khwahish-kapil {
+  position: absolute;
+  top: 49px;
+  left: 117px;
+  line-height: 24px;
+  font-family: var(--font-actor);
+}
+.frame-child12,
+.rectangle-parent4 {
+  position: absolute;
+  top: 1679px;
+  left: 746px;
+  width: 334px;
+  height: 333px;
+}
+.frame-child12 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-whitesmoke);
+  width: 272px;
+  height: 285px;
+}
+.psychologist {
+  position: absolute;
+  top: 180.5px;
+  left: 29.01px;
+  line-height: 24px;
+  display: inline-block;
+  width: 210.35px;
+  height: 45.6px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 2186px;
+  left: 54px;
+  width: 272px;
+  height: 285px;
+  font-family: var(--font-actor);
+}
+.rectangle-parent6,
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 272px;
+  height: 285px;
+}
+.rectangle-parent7 {
+  left: 352.01px;
+}
+.frame-parent,
+.ob-gyb {
+  position: absolute;
+  font-family: var(--font-actor);
+}
+.frame-parent {
+  top: 2186px;
+  left: 367.99px;
+  width: 624.01px;
+  height: 285px;
+}
+.ob-gyb {
+  top: 2444px;
+  left: 1146px;
+  line-height: 24px;
+  color: var(--color-gray-100);
+}
+.image-29-icon,
+.image-30-icon {
+  position: absolute;
+  top: 2665px;
+  left: 28px;
+  width: 500px;
+  height: 42px;
+  object-fit: cover;
+}
+.image-30-icon {
+  left: 570px;
+  height: 53px;
+}
+.blank-line {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.text {
+  position: absolute;
+  top: 3617px;
+  left: 1053px;
+  line-height: 24px;
+  font-family: var(--font-agency-fb);
+  color: var(--color-gray-100);
+  text-align: left;
+}
+.facebook-icon,
+.instagram-icon,
+.linkedin-4-icon,
+.twitter-icon {
+  position: absolute;
+  top: 5223px;
+  left: 1075px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  opacity: 0.6;
+}
+.facebook-icon,
+.instagram-icon,
+.linkedin-4-icon {
+  left: 1125px;
+}
+.facebook-icon,
+.linkedin-4-icon {
+  left: 1175px;
+}
+.linkedin-4-icon {
+  left: 1225px;
+}
+.frame-child15 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: #f6f6ff;
+  width: 1080px;
+  height: 485px;
+}
+.find-our-facilities {
+  position: absolute;
+  top: 37px;
+  left: 439px;
+  font-size: var(--font-size-xl);
+  line-height: 27px;
+  font-family: var(--font-actor);
+  display: inline-block;
+  width: 223.94px;
+  height: 27.57px;
+}
+.gtb-nagar {
+  margin-block-start: 0;
+  margin-block-end: 14.61px;
+}
+.gtb-nagar-dwarka-container {
+  position: absolute;
+  top: 85px;
+  left: 164px;
+  font-size: 23.38px;
+  line-height: 35.07px;
+  display: inline-block;
+  width: 104.12px;
+  height: 188px;
+}
+.jaipur {
+  margin-block-start: 0;
+  margin-block-end: 13.61px;
+}
+.jaipur-ajmer-alwar-container {
+  position: absolute;
+  top: 104px;
+  left: 777px;
+  font-size: 21.77px;
+  line-height: 32.66px;
+  display: inline-block;
+  width: 83px;
+  height: 183.69px;
+}
+.down-button-icon,
+.down-button-icon1,
+.down-button-icon2,
+.down-button-icon3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.52px;
+  height: 23.59px;
+  object-fit: cover;
+}
+.down-button-icon1,
+.down-button-icon2,
+.down-button-icon3 {
+  top: 50.14px;
+}
+.down-button-icon2,
+.down-button-icon3 {
+  top: 100.27px;
+}
+.down-button-icon3 {
+  top: 150.41px;
+}
+.down-button-parent {
+  position: absolute;
+  top: 94px;
+  left: 116.77px;
+  width: 23.52px;
+  height: 174px;
+}
+.down-button-icon4,
+.down-button-icon5,
+.down-button-icon6,
+.down-button-icon7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23.29px;
+  height: 23.36px;
+  object-fit: cover;
+}
+.down-button-icon5,
+.down-button-icon6,
+.down-button-icon7 {
+  top: 49.64px;
+}
+.down-button-icon6,
+.down-button-icon7 {
+  top: 99.27px;
+}
+.down-button-icon7 {
+  top: 148.91px;
+}
+.down-button-group {
+  position: absolute;
+  top: 107px;
+  left: 714px;
+  width: 23.29px;
+  height: 172.27px;
+}
+.common-visit-reasons,
+.medical {
+  position: absolute;
+  display: inline-block;
+}
+.common-visit-reasons {
+  top: 356.35px;
+  left: 467.22px;
+  line-height: 27px;
+  font-family: var(--font-actor);
+  width: 153.7px;
+  height: 27.57px;
+}
+.medical {
+  top: 410px;
+  left: 195px;
+  line-height: 24px;
+  width: 38.68px;
+  height: 24.51px;
+}
+.down-button-icon8 {
+  position: absolute;
+  top: 416px;
+  left: 164px;
+  width: 16.29px;
+  height: 16.34px;
+  object-fit: cover;
+}
+.mental-health {
+  position: absolute;
+  top: 407px;
+  left: 533px;
+  line-height: 24px;
+  display: inline-block;
+  width: 70.24px;
+  height: 24.51px;
+}
+.down-button-icon9 {
+  position: absolute;
+  top: 411px;
+  left: 507px;
+  width: 16.29px;
+  height: 16.34px;
+  object-fit: cover;
+}
+.vision {
+  position: absolute;
+  top: 406.38px;
+  left: 886.6px;
+  line-height: 24px;
+  display: inline-block;
+  width: 30.54px;
+  height: 24.51px;
+}
+.down-button-icon10 {
+  position: absolute;
+  top: 411.48px;
+  left: 860.13px;
+  width: 16.29px;
+  height: 16.34px;
+  object-fit: cover;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 2915px;
+  left: 0;
+  width: 1080px;
+  height: 485px;
+  text-align: left;
+  font-family: var(--font-agency-fb);
+}
+.join-us-and-container {
+  position: absolute;
+  top: 4215px;
+  left: 190px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-adobe-blank);
+  text-align: left;
+  display: inline-block;
+  width: 509px;
+}
+.closed-eye-icon,
+.pram-icon {
+  position: absolute;
+  top: 2217px;
+  left: 1154px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  opacity: 0.2;
+}
+.pram-icon {
+  top: 2384px;
+}
+.saviors {
+  color: var(--color-royalblue);
+}
+.instant-saviors {
+  position: absolute;
+  top: 163px;
+  left: 68px;
+  font-size: 24px;
+  font-weight: 900;
+  font-family: var(--font-roboto);
+  text-align: left;
+  color: #0e1244;
+}
+.pxservices-general-care {
+  position: absolute;
+  top: 294px;
+  left: 655px;
+  width: 367px;
+  height: 433px;
+}
+.every-1-in {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.depression-causes-80-container {
+  position: absolute;
+  top: 322px;
+  left: 23px;
+  font-family: var(--font-agency-fb);
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  width: 476px;
+  height: 134px;
+  font-size: var(--font-size-18xl);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 988px;
+  left: 36px;
+  width: 35px;
+  height: 42px;
+}
+.ellipse-div,
+.frame-child16 {
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipse-div {
+  top: 989px;
+  left: 730px;
+  background-color: var(--color-darkslateblue);
+  width: 40px;
+  height: 43px;
+}
+.frame-child16 {
+  top: 991px;
+  left: 389px;
+  background-color: #fed402;
+  width: 39px;
+  height: 39px;
+}
+.frame-child17,
+.frame-child18 {
+  position: absolute;
+  top: 1705px;
+  left: 761px;
+  width: 47px;
+  height: 47px;
+}
+.frame-child18 {
+  top: 1710px;
+  left: 410px;
+  width: 46px;
+  height: 51px;
+}
+.frame-child19,
+.px-clinic-visit {
+  position: absolute;
+  top: 1705px;
+  left: 24px;
+  width: 47px;
+  height: 52px;
+}
+.px-clinic-visit {
+  top: 2237px;
+  left: 468px;
+  width: 67px;
+  height: 63px;
+  overflow: hidden;
+}
+.px-cardiology,
+.pxservices-general-care1 {
+  position: absolute;
+  top: 2243px;
+  left: 829px;
+  width: 78px;
+  height: 76px;
+}
+.px-cardiology {
+  left: 153px;
+  width: 58px;
+  height: 62px;
+}
+.all-rights-reserved-container {
+  position: absolute;
+  top: 9px;
+  left: 300px;
+  line-height: 24px;
+  display: inline-block;
+  width: 466px;
+}
+.all-rights-reserved-instant-sa-wrapper {
+  position: absolute;
+  top: 3400px;
+  left: 0;
+  background-color: #211b1b;
+  width: 1080px;
+  height: 75px;
+  overflow: hidden;
+  color: var(--white);
+  font-family: var(--font-agency-fb);
+}
+.rectangle-parent {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 3475px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--blue);
+  font-family: var(--font-advent-pro);
+}
