@@ -10,33 +10,33 @@
 <body>
 <div class="main-block">
       <h1>Registration</h1>
-      <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post"> <!-- Use PHP_SELF to submit to the same page -->
+      <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post"> 
         <hr>
         <div class="agegap">
-          <input type="radio" value="0-15" id="radioOne" name="age" checked/> <!-- Correct values -->
+          <input type="radio" value="0-15" id="radioOne" name="age" checked/> 
           <label for="radioOne" class="radio">0-15</label>
-          <input type="radio" value="15-25" id="radioTwo" name="age" /> <!-- Correct values -->
+          <input type="radio" value="15-25" id="radioTwo" name="age" /> 
           <label for="radioTwo" class="radio">15-25</label>
-          <input type="radio" value="25+" id="radioThree" name="age" /> <!-- Correct values -->
+          <input type="radio" value="25+" id="radioThree" name="age" />
           <label for="radioThree" class="radio">25+</label>
         </div>
         <hr>
-        <label for="tel"><i class="fas fa-envelope"></i></label> <!-- Removed duplicate ID -->
+        <label for="tel"><i class="fas fa-envelope"></i></label> 
         <input type="tel" name="tel" id="tel" placeholder="phone" required/>
-        <label for="name"><i class="fas fa-user"></i></label> <!-- Removed duplicate ID -->
+        <label for="name"><i class="fas fa-user"></i></label>
         <input type="text" name="name" id="name" placeholder="Name" required/>
-        <label for="problem"><i class="fas fa-unlock-alt"></i></label> <!-- Correct ID -->
+        <label for="problem"><i class="fas fa-unlock-alt"></i></label> 
         <input type="text" name="problem" id="problem" placeholder="Problem(just a brief)" required/>
         <hr>
         <div class="gender">
-          <input type="radio" value="Male" id="male" name="gender" checked/> <!-- Correct values -->
+          <input type="radio" value="Male" id="male" name="gender" checked/> 
           <label for="male" class="radio">Male</label>
-          <input type="radio" value="Female" id="female" name="gender" /> <!-- Correct values -->
+          <input type="radio" value="Female" id="female" name="gender" />
           <label for="female" class="radio">Female</label>
         </div>
         <hr>
         <div class="btn-block">
-          <button type="submit">Submit</button> <!-- Removed href attribute -->
+          <button type="submit">Submit</button> 
         </div>
       </form>
     </div>
